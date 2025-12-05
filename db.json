@@ -1,0 +1,118 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "propic": "src/assets/1.jpg",
+      "image": "src/assets/images1.jpg",
+      "caption": "Enjoying the  vibes! ☀️ #kerala #boathouse",
+      "likes": 150,
+      "comments": [
+        {
+          "username": "emma_w",
+          "text": "Looks amazing! 😍"
+        },
+        {
+          "username": "mike_t",
+          "text": "Wish I was there!"
+        }
+      ],
+      "timestamp": "2025-04-22T10:24:00Z"
+    },
+    {
+      "id": "2",
+      "username": "sara_lee",
+      "propic": "https://randomuser.me/api/portraits/med/women/75.jpg",
+      "image": "src/assets/image2.jpg",
+      "caption": "Sunny day, pet love. 🐶",
+      "likes": 89,
+      "comments": [
+        {
+          "username": "lucas_p",
+          "text": "Same mood every morning! 😂"
+        }
+      ],
+      "timestamp": "2025-04-22T08:10:00Z"
+    },
+    {
+      "id": "3",
+      "username": "mike_travels",
+      "propic": "https://randomuser.me/api/portraits/men/3.jpg",
+      "image": "src/assets/Image_created_with_a_mobile_phone.png",
+      "caption": "Wander often, wonder always 🌍✈️",
+      "likes": 230,
+      "comments": [
+        {
+          "username": "anna_l",
+          "text": "This place is on my bucket list! 🗺️"
+        },
+        {
+          "username": "john_doe",
+          "text": "Stunning shot!"
+        }
+      ],
+      "timestamp": "2025-04-21T16:45:00Z"
+    }
+  ],
+  "profile": {
+    "username": "Arunkk",
+    "propic": "src/assets/2.jpg"
+  },
+  "suggestions": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "propic": "src/assets/1.jpg"
+    },
+    {
+      "id": "2",
+      "username": "sara_lee",
+      "propic": "https://randomuser.me/api/portraits/med/women/75.jpg"
+    },
+    {
+      "id": "3",
+      "username": "mike_travels",
+      "propic": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+      "id": "4",
+      "username": "miravels",
+      "propic": "src/assets/1.jpg"
+    },
+    {
+      "id": "5",
+      "username": "mike",
+      "propic": "src/assets/1.jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "propic": "src/assets/1.jpg",
+      "image": "/assets/s1.jpeg"
+    },
+    {
+      "id": "2",
+      "username": "sara_lee",
+      "propic": "https://randomuser.me/api/portraits/med/women/75.jpg",
+      "image": "/assets/s2.jpeg"
+    },
+    {
+      "id": "3",
+      "username": "mike_travels",
+      "propic": "https://randomuser.me/api/portraits/men/3.jpg",
+      "image": "/assets/s3.jpeg"
+    }
+  ],
+  "followers": [
+    {
+      "id": "1",
+      "username": "john_doe"
+    },
+    {
+      "id": "1",
+      "username": "john_doe"
+    }
+  ]
+}
